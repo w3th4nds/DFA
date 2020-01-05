@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# Implemented in python3
-# Name: Nikolaos - Athanasios Sarridis (151026)
-
 import sys,os
 from termcolor import colored
 
