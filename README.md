@@ -1,2 +1,31 @@
 # DFA
-Deterministic Finite Automata in python
+## Deterministic Finite Automata in python3.
+## Usage: python3 <dfa.py> <path_to_file>
+## Usage: python3 <dfa.py> --help
+#### The script takes a file as argument in the format of: 
+
+```bash
+#### Total States
+#### Symbols-Alphabet
+#### Initial State
+#### Final State
+#### Transition 1
+#### .
+#### .
+#### Transition N
+```
+
+#### Example:
+```bash
+#### 7
+#### n o s t h a  
+#### 0
+#### 6 	
+#### 0 t 1
+#### 1 h 2
+#### 2 a 3
+#### 3 n 4
+#### 4 o 5
+#### 5 s 6
+```
+#### User input is checked whether it is accepted or rejected. Also detects invalid characters.
