@@ -1,7 +1,11 @@
-# DFA
-## Deterministic Finite Automata in python3.
-## Usage: python3 <dfa.py> <path_to_file>
-## Usage: python3 <dfa.py> --help
+# DFA - Deterministic Finite Automata in python3.
+
+```sh
+Usage: python3 <dfa.py> <path_to_file>
+```
+```sh 
+Usage: python3 <dfa.py> --help
+```
 #### The script takes a file as argument in the format of: 
 
 ```
