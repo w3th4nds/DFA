@@ -33,3 +33,5 @@ n o s t h a
 5 s 6
 ```
 #### User input is checked whether it is accepted or rejected. Also detects invalid characters.
+
+[(./images/auto1.png)]
