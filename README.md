@@ -34,6 +34,6 @@ n o s t h a
 ```
 #### User input is checked whether it is accepted or rejected. Also detects invalid characters.
 
-[(./images/auto1.png)]
+![im1](./images/auto1.png)
 
-[![(./images/auto2.png)]]
+![im2](./images/auto2.png)
