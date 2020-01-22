@@ -36,4 +36,4 @@ n o s t h a
 
 [(./images/auto1.png)]
 
-[!(./images/auto2.png)]
+[![(./images/auto2.png)]]
