@@ -94,7 +94,7 @@ else:
 		for k in text:
 			invalid = False # For invalid characters
 			for i in transitions:
-				if (transitions[i][0] == current_state): 	# if the state in transition is current state
+				if (transitions[i][0] == current_state): 		# if the state in transition is current state
 					if (k == transitions[i][1]):			# if the letter of input text is the 'trigger' to change state
 						current_state = transitions[i][2]	# current state = new_current_state (the third element of the transition list)
 						print(colored('    Checking:\t\t(' + k + ')', 'blue'))
